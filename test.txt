@@ -1,1 +1,3 @@
+third changed;
 test first not changed;
+second changed
